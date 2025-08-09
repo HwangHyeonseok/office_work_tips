@@ -15,6 +15,11 @@
 |-------|-------|
 |  |  |
 
+### [Zoom]
+| 제목 | 중요도 |
+|-------|-------|
+| [Zoom 관리자 매뉴얼](https://hyeonstone.tistory.com/entry/%EB%A7%A4%EB%8B%88%EC%A0%80%EC%86%8C%EC%82%AC%EC%9D%B4%EC%96%B4%ED%8B%B0-Zoom-%EA%B5%90%EC%9C%A1%EB%A7%A4%EB%8B%88%EC%A0%80-%EC%95%84%EB%A5%B4%EB%B0%94%EC%9D%B4%ED%8A%B8-%ED%9B%84%EA%B8%B0) | ⭐⭐ |
+
 ### [카카오톡]
 | 제목 | 중요도 |
 |-------|-------|
