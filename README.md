@@ -13,12 +13,18 @@
 ### [문서/파일]
 | 제목 | 중요도 |
 |-------|-------|
-| [파일 압축 해제 오류 - "압축(ZIP) 폴더가 올바르지 않습니다."](https://hyeonstone.tistory.com/entry/%ED%8C%8C%EC%9D%BC-%EC%95%95%EC%B6%95-%ED%92%80%EA%B8%B0-%EC%98%A4%EB%A5%98-%EC%95%95%EC%B6%95ZIP-%ED%8F%B4%EB%8D%94%EA%B0%80-%EC%98%AC%EB%B0%94%EB%A5%B4%EC%A7%80-%EC%95%8A%EC%8A%B5%EB%8B%88%EB%8B%A4-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95) | ⭐ |
+| [파일 압축 해제 오류 - "압축(ZIP) 폴더가 올바르지 않습니다."](https://hyeonstone.tistory.com/entry/%ED%8C%8C%EC%9D%BC-%EC%95%95%EC%B6%95-%ED%92%80%EA%B8%B0-%EC%98%A4%EB%A5%98-%EC%95%95%EC%B6%95ZIP-%ED%8F%B4%EB%8D%94%EA%B0%80-%EC%98%AC%EB%B0%94%EB%A5%B4%EC%A7%80-%EC%95%8A%EC%8A%B5%EB%8B%88%EB%8B%A4-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95) | ⭐⭐ |
 
 ### [Zoom]
 | 제목 | 중요도 |
 |-------|-------|
 | [Zoom 관리자 매뉴얼](https://hyeonstone.tistory.com/entry/%EB%A7%A4%EB%8B%88%EC%A0%80%EC%86%8C%EC%82%AC%EC%9D%B4%EC%96%B4%ED%8B%B0-Zoom-%EA%B5%90%EC%9C%A1%EB%A7%A4%EB%8B%88%EC%A0%80-%EC%95%84%EB%A5%B4%EB%B0%94%EC%9D%B4%ED%8A%B8-%ED%9B%84%EA%B8%B0) | ⭐⭐ |
+
+### [Notion]
+| 제목 | 중요도 |
+|-------|-------|
+| [노션 데이터 이관(다른 계정으로)](https://gongysd.com/notion-office/?bmode=view&idx=140915101) | ⭐ |
+
 
 ### [카카오톡]
 | 제목 | 중요도 |
