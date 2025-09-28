@@ -20,7 +20,6 @@
 |-------|-------|
 | [노션 데이터 이관(다른 계정으로)](https://gongysd.com/notion-office/?bmode=view&idx=140915101) | ⭐ |
 
-
 ### [Zoom]
 | 제목 | 중요도 |
 |-------|-------|
@@ -31,7 +30,8 @@
 |-------|-------|
 | [오픈채팅 분리하기](https://hyeonstone.tistory.com/entry/PC-%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85-%EB%B6%84%EB%A6%AC%ED%95%98%EA%B8%B0) | ⭐ |
 
-### [프린터]
+### [사무 장비]
 | 제목 | 중요도 |
 |-------|-------|
-| [프린터기 문제 발생 시 해결 방법](https://m.blog.naver.com/ssdhdd80/222563564516) | ⭐ |
+| [프린터기 문제 발생 시 해결 방법](https://m.blog.naver.com/ssdhdd80/222563564516) | ⭐⭐ |
+| [몬스터 덱 설정](https://hyeonstone.tistory.com/entry/%EB%AA%AC%EC%8A%A4%ED%83%80%EB%8D%B1-TS16N3-%EC%97%B0%EA%B2%B0-%EB%B0%A9%EB%B2%95) | ⭐ |
