@@ -8,9 +8,9 @@
 ### [보고서 작성]
 | 제목 | 중요도 |
 |-------|-------|
-|  |  |
+| [보고서 작성 포맷](https://hyeonstone.tistory.com/entry/%EA%B3%B5%EB%AC%B8%EC%84%9C-%EC%9E%91%EC%84%B1-%EB%B0%A9%EC%8B%9D-%EB%AA%A8%EC%9D%8C%EC%A7%91) | ⭐ |
 
-### [파일]
+### [파일/OA]
 | 제목 | 중요도 |
 |-------|-------|
 | [파일 압축 해제 오류 - "압축(ZIP) 폴더가 올바르지 않습니다."](https://hyeonstone.tistory.com/entry/%ED%8C%8C%EC%9D%BC-%EC%95%95%EC%B6%95-%ED%92%80%EA%B8%B0-%EC%98%A4%EB%A5%98-%EC%95%95%EC%B6%95ZIP-%ED%8F%B4%EB%8D%94%EA%B0%80-%EC%98%AC%EB%B0%94%EB%A5%B4%EC%A7%80-%EC%95%8A%EC%8A%B5%EB%8B%88%EB%8B%A4-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95) | ⭐⭐ |
