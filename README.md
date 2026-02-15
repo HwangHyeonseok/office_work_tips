@@ -34,5 +34,6 @@
 ### [사무 장비]
 | 제목 | 중요도 |
 |-------|-------|
-| [프린터기 문제 발생 시 해결 방법](https://m.blog.naver.com/ssdhdd80/222563564516) | ⭐⭐ |
-| [몬스터 덱 설정](https://hyeonstone.tistory.com/entry/%EB%AA%AC%EC%8A%A4%ED%83%80%EB%8D%B1-TS16N3-%EC%97%B0%EA%B2%B0-%EB%B0%A9%EB%B2%95) | ⭐ |
+| [키보드][키크론 K1 블루투스 연결 문제](https://hyeonstone.tistory.com/entry/%ED%82%A4%ED%81%AC%EB%A1%A0-KEYCHRON-K1-%EB%B8%94%EB%A3%A8%ED%88%AC%EC%8A%A4-%ED%82%A4%EB%B3%B4%EB%93%9C-%EC%97%B0%EA%B2%B0%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95) | ⭐⭐⭐ |
+| [프린터][프린터기 문제 발생 시 해결 방법](https://m.blog.naver.com/ssdhdd80/222563564516) | ⭐⭐ |
+| [기타 장비][몬스터 덱 설정](https://hyeonstone.tistory.com/entry/%EB%AA%AC%EC%8A%A4%ED%83%80%EB%8D%B1-TS16N3-%EC%97%B0%EA%B2%B0-%EB%B0%A9%EB%B2%95) | ⭐ |
